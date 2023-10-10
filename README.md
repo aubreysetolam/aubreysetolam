@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aubreysetolam
-- 👀 I’m looking for a job in Software Development/Devops
-- 🌱 I’m currently learning DevOps principles
+- 👀 I’m looking for part time or freelance work
+- 🌱 I’m currently a DevOps Engineer at a FinTech Company in the Philippines
 - 📫 you can email me at setolam.aubrey@gmail.com
 
 <!---
