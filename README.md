@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aubreysetolam
-- 👀 I’m looking for part time or freelance work
-- 🌱 I’m currently a DevOps Engineer at a FinTech Company in the Philippines
+- 👀 I’m looking for a DevOps jobs or entry level Cybersecurity roles 
 - 📫 you can email me at setolam.aubrey@gmail.com
 
 <!---
